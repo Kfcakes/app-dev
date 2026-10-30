@@ -1,8 +1,8 @@
 # Akame Ga Kill
 
-**Genre** Action, Dark Fantasy, Drama, Tragedy
-**Platform** Netflix, Crunchyroll
-**Season** 1
+**Genre:** Action, Dark Fantasy, Drama, Tragedy  
+**Platform:** Netflix, Crunchyroll  
+**Season:** 1
 
 # Summary
 Akame ga Kill! follows Tatsumi, a naive country swordsman who travels 
